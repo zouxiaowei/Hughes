@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - grow
+  - Background
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Level
+  - Enemy
+  - Usable
+  - Interactable
+  - IgnorePlayer
+  - Player
+  - Cameras
+  - LitSprites
+  - Destructable
+  - EnemyWeapon
+  - BossWeakPoint
+  - Bullet
+  - PlayerDrop
+  - Platform
+  - mace
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 3024869055
+    locked: 0
+  - name: Ground
+    uniqueID: 4206480479
+    locked: 0
+  - name: Player
+    uniqueID: 1688542777
+    locked: 0
